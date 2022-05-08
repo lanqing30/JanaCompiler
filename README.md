@@ -34,3 +34,10 @@ Demos can be found in ```./demo/examples``` folder.
 
 ![demo](./demo.png)
 
+## TODO:
+
+- https://github.com/dabeaz/ply
+- function pointer
+- float number
+- LLVM IR
+- typing system
